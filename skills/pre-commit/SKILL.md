@@ -57,7 +57,7 @@ npx playwright test --debug
   Received: 404
 ```
 
-Fix: Check the endpoint URL and API behavior. See `/diagnose-test` for a full diagnosis checklist.
+Fix: Check the endpoint URL and API behavior. See `/debug-test` for a full diagnosis checklist.
 
 ### TypeScript Errors
 

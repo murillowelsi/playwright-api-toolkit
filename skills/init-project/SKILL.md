@@ -90,7 +90,7 @@ All four must pass before moving on.
 
 ## 8. Next Steps
 
-For each API resource, use the `/new-resource` skill to create:
+For each API resource, use the `/add-test` skill to create:
 - `src/api/types/{resource}.d.ts`
 - `src/api/factories/{resource}.factory.ts`
 - `src/api/api-clients/{resource}-api-client.ts`

@@ -29,9 +29,9 @@ Or add to your project's `.claude/settings.json`:
 | Skill | Trigger | Description |
 |-------|---------|-------------|
 | `init-project` | `/init-project` | Scaffold the full base project structure (run once) |
-| `new-resource` | `/new-resource` | Add all layers for a new API resource (client, types, factory, spec) |
+| `add-test` | `/add-test` | Add all layers for a new API resource (client, types, factory, spec) |
 | `add-types` | `/add-types` | Create TypeScript interfaces for an API response |
-| `diagnose-test` | `/diagnose-test` | Diagnose and fix a failing Playwright API test |
+| `debug-test` | `/debug-test` | Diagnose and fix a failing Playwright API test |
 | `install-package` | `/install-package` | Add an npm dependency with correct placement |
 | `pre-commit` | `/pre-commit` | Run tests, type check, lint, and format check |
 
@@ -91,7 +91,7 @@ Key constraints:
 
 1. Install the plugin
 2. Run `/init-project` to scaffold the base structure
-3. Run `/new-resource` for each API resource you want to test
+3. Run `/add-test` for each API resource you want to test
 4. Run `/pre-commit` before every commit
 
 ---

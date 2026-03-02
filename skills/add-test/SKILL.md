@@ -1,5 +1,5 @@
 ---
-name: new-resource
+name: add-test
 description: Scaffold all layers for a new API resource. Use when adding support for a new API endpoint group (e.g. Orders, Payments).
 ---
 

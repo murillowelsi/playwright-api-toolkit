@@ -1,5 +1,5 @@
 ---
-name: diagnose-test
+name: debug-test
 description: Diagnose and fix a failing Playwright API test. Use when a spec is erroring, returning unexpected status codes, or failing schema validation.
 ---
 

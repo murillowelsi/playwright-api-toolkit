@@ -165,7 +165,7 @@ export const test = base.extend<ApiFixtures>({
 export { expect } from '@playwright/test';
 ```
 
-Replace `{Resource}` and `{resource}` with the first resource once `/new-resource` is run.
+Replace `{Resource}` and `{resource}` with the first resource once `/add-test` is run.
 
 ---
 
