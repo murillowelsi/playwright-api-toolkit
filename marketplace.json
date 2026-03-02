@@ -1,0 +1,16 @@
+{
+  "name": "playwright-api-toolkit",
+  "owner": {
+    "name": "Murillo Welsi",
+    "github": "murillowelsi"
+  },
+  "plugins": [
+    {
+      "name": "playwright-api-toolkit",
+      "source": ".",
+      "description": "Skills, commands, and agents for TypeScript + Playwright API test suites",
+      "version": "1.0.0",
+      "keywords": ["playwright", "api-testing", "typescript", "rest-api", "testing"]
+    }
+  ]
+}

@@ -6,6 +6,7 @@
     "name": "Murillo Welsi"
   },
   "homepage": "https://github.com/murillowelsi/playwright-api-toolkit",
+  "repository": "https://github.com/murillowelsi/playwright-api-toolkit",
   "keywords": ["playwright", "api-testing", "typescript", "rest-api", "testing"],
   "category": "testing"
 }
