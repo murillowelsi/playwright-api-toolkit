@@ -7,7 +7,11 @@
   "plugins": [
     {
       "name": "playwright-api-toolkit",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "murillowelsi/playwright-api-toolkit",
+        "ref": "main"
+      },
       "description": "Skills, commands, and agents for TypeScript + Playwright API test suites",
       "version": "1.0.0",
       "keywords": ["playwright", "api-testing", "typescript", "rest-api", "testing"]
