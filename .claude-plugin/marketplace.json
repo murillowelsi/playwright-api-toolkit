@@ -13,7 +13,7 @@
         "ref": "main"
       },
       "description": "Skills, commands, and agents for TypeScript + Playwright API test suites",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "keywords": ["playwright", "api-testing", "typescript", "rest-api", "testing"]
     }
   ]

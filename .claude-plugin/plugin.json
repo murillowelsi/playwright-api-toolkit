@@ -1,11 +1,10 @@
 {
   "name": "playwright-api-toolkit",
   "description": "Skills, commands, and agents for TypeScript + Playwright API test suites. Enforces a typed client layer, fixture-based test architecture, and consistent code quality gates.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Murillo Welsi"
   },
   "homepage": "https://github.com/murillowelsi/playwright-api-toolkit",
-  "repository": "https://github.com/murillowelsi/playwright-api-toolkit",
   "keywords": ["playwright", "api-testing", "typescript", "rest-api", "testing"]
 }
